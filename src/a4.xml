@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articlelList>
+	<Article>
+		<Title>我是教练</Title>
+		<Description>一步完成我是教练步骤.只要注册成功即可享受教练待遇，互联网的练车助手,飞跃就差一步.</Description>
+		<PicUrl>http://html5demo.bringbi.com/image/menu/banner_big.jpg</PicUrl>
+		<Url>http://html5demo.bringbi.com/mainCoach?type=isLogin</Url>
+	</Article>
+</articlelList>

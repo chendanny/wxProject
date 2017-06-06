@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articlelList>
+	<Article>
+		<Title>仪表盘</Title>
+		<Description>首页仪表盘，资源看数.请点击进入</Description>
+		<PicUrl>http://wxreports.bringbi.com/image/menu/banner_big.jpg</PicUrl>
+		<Url>http://wxreports.bringbi.com/dash?type=load</Url>
+	</Article>
+	
+</articlelList>

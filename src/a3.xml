@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articlelList>
+	<Article>
+		<Title>我的预约</Title>
+		<Description>智能预约,节省时间,让时间在手指间跳动,还在等什么,赶快动起来吧！</Description>
+		<PicUrl>http://html5demo.bringbi.com/image/menu/banner_s1.jpg</PicUrl>
+		<Url>http://html5demo.bringbi.com/reportTree/orders.jsp</Url>
+	</Article>
+</articlelList>
